@@ -69,6 +69,7 @@ def generar_mapa_html(semana_num):
 
         nombre_archivo = f"RSU_{rsu_id}_semana_{semana_num}.png"
         ruta_imagen = os.path.join(output_dir_rsu, nombre_archivo)
+        print(f"Comprobando imagen RSU: {ruta_imagen} - Existe? {os.path.exists(ruta_imagen)}")
 
         if os.path.exists(ruta_imagen):
             with open(ruta_imagen, 'rb') as img_file:
