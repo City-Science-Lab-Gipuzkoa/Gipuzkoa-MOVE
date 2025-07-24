@@ -476,5 +476,5 @@ rsu.register_callbacks(app)
 dgt3.register_callbacks(app)
 
 if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 8050))  # Usa el puerto de Render si existe
+    port = int(os.environ.get("PORT", 8050))  
     app.run(debug=False, host='0.0.0.0', port=port)
