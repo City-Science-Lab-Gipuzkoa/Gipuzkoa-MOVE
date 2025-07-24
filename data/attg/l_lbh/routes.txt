@@ -1,0 +1,17 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+11,38,BU11,Hernani>Donostia (Aietetik),,3,,FFFFFF,8DC63F
+12,38,BU12,Hernani>Astigarraga>Donostia (Martutenetik),,3,,FFFFFF,8DC63F
+13,38,BU13,Hernani>Astigarraga>Donostia,,3,,FFFFFF,8DC63F
+47,38,BU47G,Tolosa>Donostia (Herriz herri),,3,,FFFFFF,8DC63F
+2,38,BU02,Usurbil>Lasarte-Oria>Donostiako Ospitaleak,,3,,FFFFFF,8DC63F
+3,38,BU03,Andoain>Lasarte-Oria>Donostia (Antiguatik),,3,,FFFFFF,8DC63F
+4,38,BU04,Andoain>Lasarte-Oria>Donostia (Amaratik),,3,,FFFFFF,8DC63F
+5,38,BU05,Andoain>Urnieta>Hernani>Donostia,,3,,FFFFFF,8DC63F
+6,38,BU06,Andoain>Donostiako Ospitaleak,,3,,FFFFFF,8DC63F
+7,38,BU07,Tolosa>Donostia (Herriz herri),,3,,FFFFFF,8DC63F
+8,38,BU08,Tolosa>Donostia (Zuzenekoa/Directo),,3,,FFFFFF,8DC63F
+9,38,BU09,Tolosa>Donostiako Ospitaleak,,3,,FFFFFF,8DC63F
+40,38,BU40G,Andoain>Urnieta>Hernani>Astigarraga>Donostia,,3,,FFFFFF,8DC63F
+41,38,BU41G,Lasarte-Oria>Donostia,,3,,FFFFFF,8DC63F
+20,38,BU20E,Hernani>Pikoaga,,3,,FFFFFF,8DC63F
+10,38,BU10,Usurbil>Lasarte-Oria>Hernani,,3,,FFFFFF,8DC63F

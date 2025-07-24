@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+05,Autobuses La Guipuzcoana S.l.,https://www.laguipuzcoana.eus/,Europe/Madrid,es,943851159,https://www.laguipuzcoana.eus/es/tarifas/

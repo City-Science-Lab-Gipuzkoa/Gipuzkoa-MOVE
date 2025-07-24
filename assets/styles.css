@@ -1,0 +1,81 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    background-color: #f8f9fa;
+}
+
+.cabecera {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.logo {
+    height: 60px;
+    margin: 10px 20px;
+}
+
+.titulo-principal {
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px;
+    gap: 20px;
+}
+
+.tarjeta {
+    background-color: white;
+    padding: 20px;
+    width: 280px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+
+.tarjeta:hover {
+    transform: translateY(-4px);
+}
+
+.ver-mapa {
+    display: inline-block;
+    margin-top: 10px;
+    color: #007bff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.ver-mapa:hover {
+    text-decoration: underline;
+}
+
+.contenedor-mapa {
+    padding: 20px;
+}
+
+.volver {
+    display: inline-block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+.footer {
+    text-align: center;
+    margin: 40px 0 20px;
+}
+
+.logo-footer {
+    height: 80px;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+#boton-robot-container:hover #tooltip-text {
+    visibility: visible !important;
+}

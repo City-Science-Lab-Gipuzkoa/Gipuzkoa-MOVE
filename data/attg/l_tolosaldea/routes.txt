@@ -1,0 +1,22 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+22,32,To22e,Zizurkil>Villabona,,3,,FFFFFF,8DC63F
+23,32,To23e,Aduna>Andoain,,3,,FFFFFF,8DC63F
+24,32,To24e,Orendain>Alegia,,3,,FFFFFF,8DC63F
+25,32,To25e,Alegia>Altzo,,3,,FFFFFF,8DC63F
+47,32,To47g,Tolosa>Anoeta>Irura>Villabon>Zizurki>Asteasu,,3,,FFFFFF,8DC63F
+26,32,To26e,Baliarrain>Alegia,,3,,FFFFFF,8DC63F
+27,32,To27e,Villabona>Alkiza,,3,,FFFFFF,8DC63F
+28,32,To28e,Amezketa (Ugarte)>Tolosa (Bedaio),,3,,FFFFFF,8DC63F
+29,32,To29e,Ibarra(Izaskun)>Tolosa>Ibarra,,3,,FFFFFF,8DC63F
+1,32,To01,Tolosa>Alegia>Amezketa>Abaltzisketa,,3,,FFFFFF,8DC63F
+2,32,To02,Tolosa>Ibarra>Berrobi>Elduain>Berastegi,,3,,FFFFFF,8DC63F
+3,32,To03,Tolosa>Txarama>Lizartza>Orexa,,3,,FFFFFF,8DC63F
+4,32,To04,Tolosa>Ibarra>Belauntza>Leaburu>Gaztelu,,3,,FFFFFF,8DC63F
+5,32,To05,Tolosa>Albiztur>Bidania-Goiatz,,3,,FFFFFF,8DC63F
+6,32,To06,Tolosa>Ibarra (Apatta Erreka),,3,,FFFFFF,8DC63F
+7,32,To07,Tolosa>Anoeta>Irura>Villabona>Zizurkil>Asteasu,,3,,FFFFFF,8DC63F
+8,32,To08,Larraul>Asteasu>Zizurkil>Villabona>Aduna,,3,,FFFFFF,8DC63F
+41,32,To41g,Tolosa>Alegia>Amezketa>Abaltzisketa,,3,,FFFFFF,8DC63F
+20,32,To20e,Tolosa>Anoeta>Alkiza,,3,,FFFFFF,8DC63F
+42,32,To42g,Tolosa>Ibarra>Berrobi>Elduain>Berastegi,,3,,FFFFFF,8DC63F
+21,32,To21e,Tolosa>Hernialde,,3,,FFFFFF,8DC63F

@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+20,Lurraldebus Urbano De Arrasate,https://www.arrasate.eus/es/web/mondragon-turismo/Como%20llegar,Europe/Madrid,es,+34902101210,https://www.mugi.eus/index.php/es/tarjetas/tarifas

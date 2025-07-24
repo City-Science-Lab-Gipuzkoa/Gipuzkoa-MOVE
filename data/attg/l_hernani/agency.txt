@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+12,Lurraldebus Urbano De Hernani,https://www.hernani.eus/es/udal-garraio-publikoa,Europe/Madrid,es,943337000,https://www.mugi.eus/index.php/es/tarjetas/tarifas

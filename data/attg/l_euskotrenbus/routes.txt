@@ -1,0 +1,18 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+99,11,Db42g,Db42g Amoreb>durang>ermua>eiba>elgo>zarau>donostia*,,3,,FFFFFF,8DC63F
+44,11,DB44G,Mallab>Ermua>Eiba>Elgo>Menda>Mutrik>Ondarroa,,3,,FFFFFF,8DC63F
+11,11,UK11,Zumaia>Getaria>Zarautz>Orio>Donostia (Ospitaleak),,3,,FFFFFF,8DC63F
+45,11,DB45G,Ondarroa>Mutriku>Deba>Mendaro>Zumaia,,3,,FFFFFF,8DC63F
+49,11,UK49G,Zuma>Geta>Zara>Ori>Usur>Donostia,,3,,FFFFFF,8DC63F
+1,11,DB01,Eibar>Elgeta,,3,,FFFFFF,8DC63F
+2,11,DB02,Ermua>Eibar>Elgoibar>Zarautz>Donostia,,3,,FFFFFF,8DC63F
+3,11,DB03,Lekei>Berriat>Ondar>Mutri>Deba>Zarau>Donostia,,3,,FFFFFF,8DC63F
+4,11,DB04,Malla>Ermu>Eib>Elgo>Menda>Deba>Mutri>Ondarroa,,3,,FFFFFF,8DC63F
+5,11,DB05,Ondarroa>Mutriku>Deba>Zumaia,,3,,FFFFFF,8DC63F
+6,11,DB06,Soral>Eibar>Elgoib>Mend>Deba>Mutriku>Ondarroa,,3,,FFFFFF,8DC63F
+7,11,UK07,Zumaia>Aizarnazabal>Zestoa,,3,,FFFFFF,8DC63F
+8,11,UK08,Zarautz>Aia>Orio,,3,,FFFFFF,8DC63F
+9,11,UK09,Zumaia>Getaria>Zarautz>Orio>Usurbil>Donostia,,3,,FFFFFF,8DC63F
+43,11,DB43G,Lekei>Berriat>Ondar>Mutr>Deba>Zarau>Donostia,,3,,FFFFFF,8DC63F
+10,11,UK10,Zumaia>Getaria>Zarautz>Donostia,,3,,FFFFFF,8DC63F
+98,11,Uk48g,Uk48g Zarautz>aia>orio*,,3,,FFFFFF,8DC63F

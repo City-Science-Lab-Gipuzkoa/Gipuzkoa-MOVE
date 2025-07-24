@@ -1,0 +1,11 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+11,05,Uk01,Azkoitia-Azpeitia-Zestoa-Donostia,,3,,FFFFFF,8DC63F
+12,05,Uk02,Azkoiti>Azpeiti>Errezil>Bidegoi>Albizt>Tolosa,,3,,FFFFFF,8DC63F
+45,05,Uk45g,Zestoa>Azpeitia>Azkoitia>Elgoibar>Eibar,,3,,FFFFFF,8DC63F
+13,05,Uk03,Azkoitia>Azpeitia>Zestoa>Aizarnazabal>Zarautz,,3,,FFFFFF,8DC63F
+46,05,Uk46g,Zumaia>Zestoa>Azpeitia>Azkoitia,,3,,FFFFFF,8DC63F
+14,05,Uk04,Albiztur>Beizama>Azpeitia,,3,,FFFFFF,8DC63F
+15,05,Uk05,Zestoa>Azpeitia>Azkoitita>Elgoibar>Eibar>Ermua,,3,,FFFFFF,8DC63F
+16,05,Uk06,Zumaia>Zestoa>Azpeitia>Azkoitia>Urretxu>Zumar,,3,,FFFFFF,8DC63F
+41,05,Uk41g,Azkoitia>Azpeitia>Zestoa>Donostia,,3,,FFFFFF,8DC63F
+43,05,Uk43g,Azkoitita>Azpeitia>Zestoa>Aizarnazabal>Zarautz,,3,,FFFFFF,8DC63F

@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,13,L1,Zaisa-Ospitalea,,3,http://auif.es/lineas-autobuses-urbanas-irun/l1-zaisa-ospitalea/,FFFFFF,8DC63F
+2,13,L2,San Juan-Ventas-Txingudi Mg,,3,http://auif.es/lineas-autobuses-urbanas-irun/l2a-san-juan-ventas-txingudi/,FFFFFF,8DC63F
+3,13,L3,San Juan-Artia,,3,http://auif.es/lineas-autobuses-urbanas-irun/l3-san-juan-artia-olaberria/,FFFFFF,8DC63F
+4,13,G,Gautxori,,3,http://auif.es/lineas-autobuses-urbanas-irun/gautxori-behobia-ventas/,FFFFFF,8DC63F
+50,13,Ga,Gautxori,,3,,FFFFFF,8DC63F

@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+37,Udalbus Eibar,https://www.udalbuseibar.eus/,Europe/Madrid,es,943851159,https://www.udalbuseibar.eus/tarifas/

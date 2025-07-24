@@ -1,0 +1,2 @@
+fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+Urbano 3_1.35,1.35,EUR,0,0,20,0

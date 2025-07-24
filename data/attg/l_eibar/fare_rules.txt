@@ -1,0 +1,3 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+Urbano 3_1.35,59,8,8,
+Urbano 3_1.35,60,8,8,

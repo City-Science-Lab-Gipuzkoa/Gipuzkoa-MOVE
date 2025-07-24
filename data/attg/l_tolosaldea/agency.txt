@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+32,Lurraldebus Tolosaldea,https://www.lurraldebus.eus/,Europe/Madrid,es,,https://www.mugi.eus/index.php/es/tarjetas/tarifas

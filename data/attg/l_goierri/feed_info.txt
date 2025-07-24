@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email
+Ingartek Consulting,https://www.ingartek.com/,es,es,20200104,20311228,20250526110016,sanchez@gmail.com

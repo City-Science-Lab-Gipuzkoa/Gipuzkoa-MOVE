@@ -1,0 +1,12 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+22,35,GO22E,Mutiloa>Zerain>Segura,,3,https://web.bilmanbus.es/wp-content/uploads/2020/11/@GO22E-25X40-GOIERRIALDEA_diciembre-2020.pdf,FFFFFF,8DC63F
+1,35,GO01,Zega>Segur>Idiaz>Olaber>Beasai>Ordiz>Zaldibia,,3,https://web.bilmanbus.es/wp-content/uploads/2020/12/GO01-@25X40-GOIERRIALDEA_abril-2020_09-4-1.pdf,FFFFFF,8DC63F
+23,35,GO23E,Gaintza>Zaldibia>Ordizia,,3,https://web.bilmanbus.es/wp-content/uploads/2020/11/@GO23E-25X40-GOIERRIALDEA_diciembre-2020-2-scaled.jpg,FFFFFF,8DC63F
+3,35,GO03,Beasain>Olaberria>Lazkao,,3,https://web.bilmanbus.es/wp-content/uploads/2020/11/@GO03-25X40-GOIERRIALDEA_diciembre-2020.pdf,FFFFFF,8DC63F
+4,35,GO04,Legorre>Itsasond>Ordizia>Beasain>Lazkao>Ataun,,3,https://web.bilmanbus.es/wp-content/uploads/2020/12/GO04-@25X40-GOIERRIALDEA_abril-2020_07.pdf,FFFFFF,8DC63F
+5,35,GO05,Lazk>Ordi>Beas>Orma>Ezki>Zumarraga(Ospitalea),,3,https://web.bilmanbus.es/wp-content/uploads/2020/11/@GO05-25X40-GOIERRIALDEA_diciembre-2020.pdf,FFFFFF,8DC63F
+6,35,GO06,Gabiria>Ormaiztegi>Itsaso>Ezkio>Zumarraga,,3,https://web.bilmanbus.es/wp-content/uploads/2020/11/@GO06-25X40-GOIERRIALDEA_diciembre-2020.pdf,FFFFFF,8DC63F
+7,35,Go07,Go07-zumarraga>beasain>ordizia>tolosa>donostia,,3,,FFFFFF,8DC63F
+50,35,Go50,Go50-especial,,3,,FFFFFF,8DC63F
+41,35,GO41G,Gauekoa/Nocturno,,3,https://web.bilmanbus.es/wp-content/uploads/2020/07/GO41G-@25X40-GOIERRIALDEA_abril-2020_08.pdf,FFFFFF,8DC63F
+21,35,GO21E,Altzaga>Arama>Ordizia>Itsasondo,,3,https://web.bilmanbus.es/wp-content/uploads/2020/11/@GO21E-25X40-GOIERRIALDEA_diciembre-2020.pdf,FFFFFF,8DC63F

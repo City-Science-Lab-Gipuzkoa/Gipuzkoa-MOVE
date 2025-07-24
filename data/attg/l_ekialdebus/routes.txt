@@ -1,0 +1,26 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+22,26,E22,Hondarribia>Irun (CC Txingudi Merkatalgunea),,3,,FFFFFF,8DC63F
+23,26,E23,E23 Hondarribia>irun (mendeb/oest)>donostia (ap-8),,3,,FFFFFF,8DC63F
+24,26,E24,E24 Irun>donostia (ap-8),,3,,FFFFFF,8DC63F
+25,26,E25,Hondarribia>Irun,,3,,FFFFFF,8DC63F
+26,26,E26,Irun>Errenteria>Pasaia>Donostia (N-I),,3,,FFFFFF,8DC63F
+27,26,E27,Hondarribia>Irun>Errenteria>Donostia (N-I),,3,,FFFFFF,8DC63F
+28,26,E28,Hondarribia (Ama Guadalupekoa)>Aireportua,,3,,FFFFFF,8DC63F
+71,26,E71,E71 P.donibane>lezo>errente>p.antxo>donostia (n-i)*,,3,,FFFFFF,8DC63F
+72,26,E72,E72 Oiartzun>errenteria>pasaia>donostia (n-i)*,,3,,FFFFFF,8DC63F
+75,26,E75,Errenteria (Beraun)>Pasaia>Donostia (N-I),,3,,FFFFFF,8DC63F
+77,26,E77,Hondarribia>Irun>Errenteria>Pasaia>Donostia (N-I),,3,,FFFFFF,8DC63F
+78,26,E78,E78 Hondarribia>irun*,,3,,FFFFFF,8DC63F
+79,26,E79,P. San Pedro>Donostia (N-I),,3,,FFFFFF,8DC63F
+15,26,E15,Errenteria (Beraun)>Donostia Ospitaleak,,3,,FFFFFF,8DC63F
+1,26,E01,E01 P.donibane>lezo>errente>p.antxo>donostia (n-i),,3,,FFFFFF,8DC63F
+2,26,E02,Oiartzun>Errenteria>Pasaia>Donostia (N-I),,3,,FFFFFF,8DC63F
+3,26,E03,P.Donibane>Errenteria>Donostia Ospitaleak,,3,,FFFFFF,8DC63F
+4,26,E04,E04 Oiartzun>errenteria>donostia (ap-8),,3,,FFFFFF,8DC63F
+5,26,E05,Errenteria(Beraun)>Pasaia>Donostia (N-I),,3,,FFFFFF,8DC63F
+6,26,E06,Errenteria>Donostia Ospitaleak,,3,,FFFFFF,8DC63F
+7,26,E07,P. sn Pedro (Trintx)>P.Antx>Donostia Ospitaleak,,3,,FFFFFF,8DC63F
+8,26,E08,P. San Pedro (Trintxerpe)>Donostia,,3,,FFFFFF,8DC63F
+9,26,E09,P. San Pedro>Donostia,,3,,FFFFFF,8DC63F
+20,26,E20,Hondarribia>Irun>Errenteria>Pasaia<Donostia,,3,,FFFFFF,8DC63F
+21,26,E21,Hondarribia (Aireportua)>Donostia (AP-8),,3,,FFFFFF,8DC63F

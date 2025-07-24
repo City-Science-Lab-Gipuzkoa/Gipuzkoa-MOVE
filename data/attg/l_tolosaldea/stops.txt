@@ -1,0 +1,234 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,location_type
+2100,,"Amezketa - Eliz Kalea 6, Zumadi Eskola",43.045143691675456,-2.0851686989719695,2,0
+2101,,"Amezketa - Eliz Kalea 7, Zumadi Eskola",43.04529577600617,-2.085043662951433,2,0
+2700,,"Alegia - Bideberrieta 17 Parean, Renfe",43.100969333724066,-2.0981872892980777,2,0
+1707,,"Tolosa - San Frantzisko Ibilbidea 1, Eliza",43.136572070895156,-2.074216063338521,2,0
+1708,,"Tolosa - San Frantzisko Pasealekua 14, Renfe",43.134662986251406,-2.077552342850199,2,0
+1709,,"Tolosa - San Esteban Auzoa 63, Benta Haundi",43.12620621441043,-2.0875021533823106,2,0
+1711,,"Tolosa - Araba Etorbidea 5, Zubia",43.13318030729378,-2.082418923475599,2,0
+2701,,Alegia - Larraitz Auzoa 40,43.09765153407482,-2.0953974425935233,2,0
+2102,,"Amezketa - Joxean Tolosa Kalea 3 Parean, Ugarte",43.06841628761005,-2.084527873993128,2,0
+2103,,"Amezketa - Alegiko Bidea 1 Parean, Zubillaga",43.05650434799133,-2.0881066206292527,2,0
+2104,,"Amezketa - Bartolome Deunaren Kalea 37, Fernando Amezketarraren Plaza",43.04893601324559,-2.0875802797421157,2,0
+2105,,Amezketa - Eliz 18 Parean,43.04454301665083,-2.0832500665206823,2,0
+2706,,"Alegia - San Juan Kalea 61, Tontokalea",43.10057219744804,-2.098070231948007,2,0
+2707,,Alegia - Erbeta Errepidea 2,43.105732674946566,-2.0947377054828227,2,0
+2109,,Amezketa - Bartolome Deunaren Bidea 18,43.0504668628784,-2.0887117773534603,2,0
+3204,,"Abaltzisketa - Abaltzisketa Hirigunea 22, San Juan Plaza",43.04734752356282,-2.1053701009196066,2,0
+3206,,Abaltzisketa - Ipintza-garmendi Auzoa 1,43.046725923799876,-2.099596251530439,2,0
+3209,,"Abaltzisketa - Larraitz Auzoa 12, Ermita",43.03695136792481,-2.099064012030873,2,0
+1704,,Tolosa - Ibaiondo Kalea 1,43.136873487911146,-2.071408050129377,2,0
+1710,,"Tolosa - San Esteban Auzoa 63 Parean, Bentaundi",43.1257829402455,-2.0874961515777555,2,0
+2106,,"Amezketa - Alegiko Bidea 1, Zubillaga",43.05654907374985,-2.088069118324885,2,0
+2107,,"Amezketa - Joxean Tolosa Kalea 4, Ugarte",43.06832595454951,-2.0844923718606987,2,0
+2702,,Alegia - Larraitz Auzoa 9,43.097888255353446,-2.095725736424498,2,0
+2703,,"Alegia - San Juan Kalea 38, Tontokalea",43.1006080189954,-2.0980451288102135,2,0
+1712,,"Tolosa - Araba Etorbidea 5 Parean, Zubia",43.13306572328325,-2.08272801520197,2,0
+1713,,"Tolosa - Oria Kalea, Zezen Plaza",43.13337960130534,-2.076969168487211,2,0
+2108,,Amezketa - Bartolome Deunaren Bidea 19,43.05078307368131,-2.0888421611449113,2,0
+2705,,"Alegia - Bideberrieta Kalea 9, Renfe",43.10110100067103,-2.097755250621053,2,0
+3207,,Abaltzisketa - Ipintza-garmendi Auzoa 1 Parean,43.046662799886846,-2.0995848969737847,2,0
+3208,,"Abaltzisketa - Larraitz Auzoa 2, Ermita",43.036803245555554,-2.0985505911822964,2,0
+1729,,Tolosa - Santa Lutzia Ikastetxea,43.14721162892503,-2.0681647716748346,2,0
+1701,,Tolosa - Asuncion Klinika,43.13959912743994,-2.068846028750571,2,0
+3300,,"Berrobi - Jose Maria Goikoetxea Kalea 12, Telleri",43.14606012573598,-2.0293091132167564,2,0
+3401,,"Elduain - Elduain Sakabanatua 48 Parean, Bentaberri",43.14403658125103,-2.0075625693677273,2,0
+1714,,Tolosa - Ibarralde Kalea 2 - Tolosana,43.1341299555621,-2.0717692437826685,2,0
+1803,,"Ibarra - Euskal Herria Kalea 18, Anbulategia",43.133098967785195,-2.069006134723818,2,0
+1804,,"Ibarra - Euskal Herria Kalea 44, Kultur Etxea",43.132417777321066,-2.0638771548816606,2,0
+1806,,"Ibarra - Euskal Herria Kalea 62, Ibarburu",43.13290438640034,-2.0606238248756528,2,0
+3001,,"Belauntza - Beotibar Auzoa 8, Gure Txokoa",43.14244097487869,-2.0411469128448925,2,0
+3301,,Berrobi - Jose Maria Goikoetxea Kalea 28 - Herrigunea,43.145456729310375,-2.026121282106205,2,0
+3302,,"Berrobi - Jose Maria Goikoetxea Kalea 52, Ermita",43.1442542469393,-2.0213321001119455,2,0
+2600,,"Berastegi - Eldua Auzoa 5, Paper-fabrika",43.14302710909049,-2.015793376707684,2,0
+3402,,"Elduain - Elduain Hirigunea 53b, Goikoetxea",43.14171785689389,-2.0029026790237046,2,0
+3403,,"Elduain - Elduain Hirigunea 1 Parean, Hilerria",43.140909443084254,-2.000038390843207,2,0
+2601,,"Berastegi - Leitza-tolosa Etorbidea 12, Elduainalde",43.12673545172414,-1.980599159364172,2,0
+2602,,Berastegi - Herriko Enparantza 1,43.12411074803815,-1.9791060798224018,2,0
+1812,,"Ibarra - Okobio Auzoa 49, Industrialdea",43.13543503652357,-2.0573759325976595,2,0
+2605,,Berastegi - Aiztunalde,43.13373055742049,-1.9875158535647786,2,0
+2606,,"Berastegi - Elduainalde Auzoa 8, Ermita",43.13012146688256,-1.9846738837622875,2,0
+1739,,"Tolosa - Izaskungo Aldapa 1a, Santa Klara Komentua",43.136614675533984,-2.071694771221479,2,0
+3007,,Belauntza - Leitzako Errepidea 21 Parean,43.141597066854885,-2.0457591210953385,2,0
+1702,,"Tolosa - Izaskungo Aldapa 2a, Santa Klara Komentua",43.13653354256533,-2.0716837027665505,2,0
+3000,,Belauntza - Leitzako Errepidea 21,43.14166029725723,-2.0457827313518746,2,0
+3400,,"Elduain - Elduain Sakabanatua 48, Bentaberri",43.14411750618065,-2.0075489628579026,2,0
+2603,,"Berastegi - Leitza-tolosa Etorbidea 23, Elduainalde",43.1267451122767,-1.9806727620325366,2,0
+3404,,"Elduain - Elduain Hirigunea 1, Udaletxea",43.14092605299542,-1.999878263065298,2,0
+3405,,"Elduain - Elduain Hirigunea 53, Garaikoetxea",43.141753763743,-2.002889798593496,2,0
+2604,,"Berastegi - Eldua Auzoa 3 Parean, Paper-fabrika",43.14308271669713,-2.015976941605396,2,0
+3303,,"Berrobi - Jose Maria Goikoetxea Kalea 49, Ermita",43.144409305370516,-2.021563277039512,2,0
+3304,,"Berrobi - Jose Maria Goikoetxea Kalea 27, Herrigunea",43.14550090973548,-2.0260221997411936,2,0
+3002,,"Belauntza - Beotibar Auzoa 4c, Gure Txokoa",43.142421112660315,-2.0409258771509724,2,0
+1808,,"Ibarra - Euskal Herria Kalea 51, Ibarburu",43.13248211053706,-2.0640360088554295,2,0
+1810,,"Ibarra - Euskal Herria Kalea 17, Anbulategia",43.13307115640672,-2.0689081955061366,2,0
+1715,,"Tolosa - Ibarralde Kalea 3, Tolosana",43.13423740144134,-2.0716938463638948,2,0
+1811,,Ibarra - Euskal Herria Kalea 85,43.135202561886054,-2.057576232588528,2,0
+2607,,"Berastegi - Elduainalde Auzoa 12, Ermita",43.13018460024979,-1.9846851339068388,2,0
+2608,,Berastegi - Aiztunalde,43.13362262455888,-1.9875299295140116,2,0
+3305,,Berrobi - Jose Maria Goikoetxea Kalea 9 -telleri,43.14608209620809,-2.0297760796005795,2,0
+1706,,Tolosa - Belate Pasealekua 1b Parean,43.1405815837264,-2.0722864758222563,2,0
+1717,,"Tolosa - Iruña Etorbidea 4, Iurramendi",43.13023692938799,-2.0792048656607287,2,0
+2802,,Anoeta - Industrialdea 11,43.15778332403303,-2.0681763325111997,2,0
+2803,,"Anoeta - Herriko Plaza 2, Renfeko Zubia",43.16189078909083,-2.070549488073513,2,0
+2804,,"Anoeta - San Juan Kalea 14, Zubiaurre",43.16309905831662,-2.0718596954314488,2,0
+3700,,Alkiza - Alkizako Plaza,43.17273114834504,-2.1088568923750954,2,0
+3701,,Alkiza - Azaldegi Bailara,43.18290425277461,-2.0857475303309454,2,0
+1730,,Tolosa - Iurramendi Pasealekua 10,43.13242655737727,-2.0827498632427455,2,0
+3704,,"Alkiza - Arana Bailara 17 Parean, Errekalde",43.16640105388002,-2.0951216632990097,2,0
+1740,,"Tolosa - Olotza Bailara 18 Parean, Zuloaga",43.150288645664766,-2.072274948222675,2,0
+1722,,"Tolosa - Iruña Etorbidea 4 Parean, Iurramendi",43.13015460967651,-2.079046271393395,2,0
+2805,,"Anoeta - San Juan Kalea 14 Parean, Zubiaurre",43.163000018173335,-2.071861194836173,2,0
+2806,,"Anoeta - San Juan Kalea 2, Renfeko Zubia",43.16197132229909,-2.0704867625011945,2,0
+2807,,Anoeta - Industrialdea 11 Parean,43.157622560430774,-2.0683386763764497,2,0
+3501,,"Tolosa - Olotza Bailara 18, Zuloaga",43.15014478635764,-2.072301721331205,2,0
+1724,,Tolosa - Belate Pasealekua 1b,43.14059098618157,-2.072335520241779,2,0
+3702,,Alkiza - Azaldegi Bailara,43.1817976251877,-2.0869945362271975,2,0
+3703,,"Alkiza - Arana Bailara 17, Errekalde",43.166418963997174,-2.09510909708342,2,0
+2801,,"Anoeta - Argoin Kalea 5, Anoeta Sarrera",43.161105076063166,-2.069159112580068,2,0
+3500,,Hernialde - Santa Kruz Apaizaren Enparantza,43.1548042330321,-2.0850965132149484,2,0
+3503,,"Hernialde - Txingurri Bailara, Zerratokia",43.1556532862596,-2.0798072873279767,2,0
+3505,,Hernialde - Olotza Bailara 13,43.149999169346756,-2.0799167167318426,2,0
+3506,,"Hernialde - San Miguel Bailara 10 Parean, Anoetako Bidegurutzea",43.15243366947974,-2.075846114737789,2,0
+2800,,"Anoeta - Argoin Kalea 5 Parean, Anoeta Sarrera",43.16107896569149,-2.0692702157994662,2,0
+3504,,"Hernialde - San Miguel Bailara 10, Anoetako Bidegurutzea",43.15236134206127,-2.0758103075928367,2,0
+2304,,Villabona - Kale Berria 11,43.18992989571451,-2.052784179120846,2,0
+2407,,Zizurkil - Pedro Maria Otaño Plaza 8,43.199261536901524,-2.074019561589002,2,0
+2409,,"Zizurkil - Mendibailara 27 Parean, San Miguel Ermita",43.20033861525063,-2.0680458892368274,2,0
+2411,,Zizurkil - Ernio Bidea 10 Parean,43.190208401711715,-2.054884300887595,2,0
+2502,,Aduna - Ibaiondo Industrigunea,43.196490183050386,-2.0555504385576984,2,0
+2305,,"Villabona - Kale Berria, Burni Zubi",43.1932508423805,-2.0536558567469263,2,0
+2408,,"Zizurkil - Mendibailara 27, San Miguel Ermita",43.20029249439811,-2.0679111963088954,2,0
+910,,Andoain - Karrika Kalea 2,43.209094518884605,-2.0305259014846855,1,0
+914,,"Andoain - Aita Larramendi Kalea 36, Zumea Plaza",43.212664312462095,-2.024633886422266,1,0
+918,,"Andoain - Kaleberria 22, Renfe",43.2157568530966,-2.020878763372901,1,0
+2503,,"Aduna - Almankor Kalea 5, Herrigunea",43.20442125648844,-2.0498642128304603,2,0
+920,,Andoain - Sorabilla,43.20982307309937,-2.034687634908413,1,0
+2505,,Aduna - Elbarren Eliza,43.20336007110072,-2.048945180144042,2,0
+2507,,Aduna - Zubitxiki Industrigunea 2,43.20590232444624,-2.0438956126863213,2,0
+912,,Andoain - Karrika Kalea 1,43.20950346101628,-2.029903900251452,1,0
+913,,"Andoain - Aita Larramendi Kalea, 19, Zumea Plaza",43.212750672701695,-2.0242016205606674,1,0
+915,,"Andoain - Kaleberria 10, Renfe",43.2164498012503,-2.020830739919011,1,0
+2504,,"Aduna - Elbarrena Auzoa 7, Santa Krutz Ermita",43.201302354640006,-2.049469498684606,2,0
+2508,,Aduna - Urtaki Industrialdea,43.20234248594748,-2.0446158970688972,2,0
+3100,,"Orendain - Orendaingo Plaza 4, Herrigunea",43.07957340265093,-2.1131196499197547,2,0
+3101,,Orendain - Abaltzisketako Bidegurutzea,43.08180246587613,-2.106797632918341,2,0
+3103,,"Orendain - Astizalde 12 Parean, Larreta Baserriko Bidegurutzea",43.08865228224884,-2.1098925290413297,2,0
+3104,,"Orendain - Astizalde 23a, Okaitz Garro Baserria",43.085692521815496,-2.1079451082037535,2,0
+3105,,"Orendain - Baldanalde, Zubeltzu Baserria",43.06802145399566,-2.1063468180933573,2,0
+3106,,Orendain - Zaragoza Baserriko Bidegurutzea,43.076055599959105,-2.106574016998624,2,0
+3200,,Abaltzisketa - Olano Auzoa 7,43.05774668292021,-2.102873428074631,2,0
+3201,,Abaltzisketa - Pildain-gasastegi Auzoa 10,43.05292774053165,-2.1050065692095177,2,0
+3205,,Abaltzisketa - Sasiain,43.06183050530894,-2.1057612977273714,2,0
+3102,,Orendain - Abaltzisketako Bidegurutzea,43.08174863444679,-2.1068229847306137,2,0
+2704,,"Alegia - Aralar Bidea 6 Parean, Larraitz Auzoa (zubia)",43.09991123771514,-2.0976129710973415,2,0
+3107,,Orendain - Zaragoza Baserriko Bidegurutzea,43.07583730104175,-2.1062946635404924,2,0
+2906,,"Altzo - Altzo-muino Kalea 76 Parean, Udaletxea",43.10019297821773,-2.0843371863009175,2,0
+2902,,Altzo - Intxausti Auzoa 55 Parean,43.10210199889135,-2.0764929682163253,2,0
+2903,,Altzo - Altzo-azpi Kalea 12,43.1062061125444,-2.0874551876839265,2,0
+2904,,"Altzo - Zuaznabar Aldea 31, Aiesti",43.10488581991314,-2.0755416971403187,2,0
+2905,,"Altzo - Altzo-azpi Kalea 14, Ipentzaundi",43.105771187506335,-2.0837378764846597,2,0
+3800,,"Ikaztegieta - San Lorentzo Auzunea 18 Parean, Kiroldegia",43.0938682243235,-2.1253481377594965,2,0
+3802,,"Ikaztegieta - Ikaztegieta Barreiatua 13, Zubiaurre",43.09076712776918,-2.1249008021519558,2,0
+4300,,Baliarrain - Andra Mari Zeruratzearen Enparantza,43.06931332608064,-2.1278959358683887,2,0
+8200,,"Legorreta - Ola Auzoa 5, Eredu",43.08525202702041,-2.1290826990031357,5,0
+4301,,Baliarrain - San Juan Iturria,43.07004974840664,-2.1395293485203553,2,0
+1731,,"Tolosa - Aldaba Auzoa 7 Parean, Lantier",43.095969812991505,-2.118756581193106,2,0
+3801,,Ikaztegieta - San Lorentzo Auzunea 18 - Kiroldegia,43.09379638101501,-2.125373734823847,2,0
+3803,,"Ikaztegieta -benzunzibar Industrialdea 1, Zubiaurre",43.090811489526935,-2.1248141636789595,2,0
+1733,,"Tolosa - Aldaba Auzoa 7, Lantier",43.09595227834845,-2.118818271248985,2,0
+2400,,"Zizurkil - Ernio Bidea 12, Pasus-enea",43.19090871823713,-2.056817959518202,2,0
+2401,,"Zizurkil - Ernio Bidea 25, Urbitarte",43.19199241128608,-2.0604810519018675,2,0
+2402,,Zizurkil - Akezkobailara 18,43.19134448095976,-2.0638261428972826,2,0
+2403,,"Zizurkil - Ernio Bidea 59 Parean, Zizurkilgo Bidegurutzea",43.19136786543675,-2.074446587075804,2,0
+3900,,"Asteasu - Industrialdea 83, Alkizako Bidegurutzea",43.19077240494174,-2.0843748028842937,2,0
+2306,,"Villabona - Aurrera Plaza 1, Renfe",43.18948216213843,-2.055264700985829,2,0
+2309,,"Villabona - Kale Nagusia 72, Kiroldegia",43.18520414632386,-2.0529926162930123,2,0
+2302,,Villabona - Kale Berria 10,43.18993091447971,-2.0529072288253456,2,0
+3903,,"Asteasu - Industrialdea 75, Alkizako Bidegurutzea",43.190772109474636,-2.0843378871348963,2,0
+2404,,"Zizurkil - Ernio Bidea 59, Zizurkilgo Bidegurutzea",43.19137647081346,-2.074397229664053,2,0
+2405,,Zizurkil - Ernio Bidea 37,43.19133457103869,-2.063715532901111,2,0
+2406,,"Zizurkil - Ernio Bidea 12 Parean, Pasus-enea",43.19082677302503,-2.056708460914873,2,0
+1700,,Tolosa - Bedaio,43.049973839841876,-2.0405135966306363,2,0
+1800,,Ibarra - Izaskunburu Auzoa 33,43.13871722847319,-2.06339986818202,2,0
+1703,,Tolosa - Kondeaneko Aldapa 3 Parean,43.13412882709441,-2.072740593669019,2,0
+1900,,"Leaburu - Txarama Auzoa 19, Errotazpi",43.11294848908426,-2.060474351865965,2,0
+1716,,Tolosa - Kondeaneko Aldapa 22a,43.13181726462007,-2.0752959708337895,2,0
+1718,,"Tolosa - Iruña Etorbidea 20, Amarotz",43.125886943882506,-2.0791225935382034,2,0
+1719,,"Tolosa - Iruña Etorbidea 26, Araxes",43.119080403864814,-2.077024353984295,2,0
+1903,,"Leaburu - Txarama Auzoa 5 Parean, Baratzondo Berri",43.11530773746163,-2.073725456653702,2,0
+2900,,Altzo - Amategi Aldea 127,43.11098636243433,-2.0694028454554108,2,0
+4000,,Lizartza - Kale Nagusia 6,43.10188303145849,-2.034689450015657,2,0
+4200,,Orexa - Errebote Plaza,43.09384114067655,-2.011420806292211,2,0
+1904,,Leaburu -  Iruntzubi Industrialdea 8,43.11460539479566,-2.0582857099027,2,0
+4002,,Lizartza - Elbarrena Kalea,43.10515333341557,-2.0359407539917256,2,0
+4201,,Orexa - Legasa Aldea,43.09098902598177,-2.0127444999069204,2,0
+1901,,Leaburu - Txarama Auzoa 16,43.112102126570406,-2.0637812708623824,2,0
+4001,,Lizartza - Kale Nagusia 25,43.10186409116035,-2.0345791476602977,2,0
+1905,,Leaburu -  Iruntzubi Industrialdea 8 Parean,43.11466872407972,-2.0583216131169118,2,0
+2901,,Altzo - Amategi Aldea 127 Parean,43.11101197417752,-2.069230387287754,2,0
+1906,,Leaburu - Txarama Auzoa 5 - Baratzondo Berri,43.11529783823413,-2.0736149817436056,2,0
+1720,,"Tolosa - Iruña Etorbidea, Araxes, Ermita",43.11925879281027,-2.0768127020797915,2,0
+1721,,"Tolosa - Iruña Etorbidea 20 Parean, Amarotz",43.126119754509844,-2.078959282315449,2,0
+1723,,Tolosa - Kondeaneko Aldapa 5b,43.13130941644472,-2.0759675409260865,2,0
+4202,,Orexa - Legasa Aldea,43.091006715203555,-2.0127073556448605,2,0
+4003,,Lizartza - Ostatuberrialdea 1 Parean,43.10565981141705,-2.0372723765627363,2,0
+1902,,"Leaburu - Leaburu Auzoa 45, Maala",43.12221542450195,-2.0464415047091062,2,0
+1805,,"Ibarra - Euskal Herria Kalea 32, Txumitxa",43.132241190871156,-2.06651097243446,2,0
+3003,,"Belauntza - Hiriburu Gunea 7, Tokialai",43.136501103277276,-2.053437188812113,2,0
+3004,,"Belauntza - Hiriburu Gunea 25, Andresenea",43.135667041033926,-2.0505851666430948,2,0
+1907,,"Leaburu - Leaburu Auzoa 76 Parean, Benta-artetxea",43.126388797810485,-2.0501877544963305,2,0
+1908,,Leaburu - Leaburu Auzoa 58,43.12446642471699,-2.0529220484671113,2,0
+1909,,"Leaburu - Leaburu Auzoa 42, San Sebastian Ermita",43.120682326265985,-2.0548489051311187,2,0
+4100,,"Gaztelu - Gaztelu 2 Parean, Gazteluko Kontzejua",43.11611668030072,-2.024779842304475,2,0
+4101,,Gaztelu - Gazteluko Plaza,43.11653614436088,-2.0222287745748417,2,0
+1815,,Ibarra - Okobio Industrialdea,43.13435207351721,-2.058179472468988,2,0
+1807,,"Ibarra - Euskal Herria Kalea 75, Ibarburu",43.13295041401463,-2.060746071486866,2,0
+1809,,"Ibarra - Euskal Herria Kalea 41, Txumitxa",43.1324322739902,-2.0667539662282572,2,0
+4102,,"Gaztelu - Gaztelu 2, Gazteluko Kontzejua",43.116169968602755,-2.0246929538117464,2,0
+1910,,"Leaburu - Leaburu Auzoa 42 Parean, San Sebastian Ermita",43.12075425411341,-2.0548355052037017,2,0
+1911,,Leaburu - Leaburu Auzoa 35,43.12436697744842,-2.0528744091113555,2,0
+1912,,"Leaburu - Leaburu Auzoa 76, Benta-artetxea",43.12634337137248,-2.0501392822313873,2,0
+3005,,"Belauntza - Hiriburu Gunea 27, Andresenea",43.13572096084179,-2.0505720367510683,2,0
+3006,,"Belauntza - Hiriburu Gunea 6, Etxealai",43.13650181523363,-2.053523248592731,2,0
+1813,,"Ibarra - Euskal Herria Kalea 55, Kultur Etxea",43.132422555330685,-2.063360691657373,2,0
+1705,,Tolosa - Trinkete Plaza 1,43.14046426218918,-2.071144663950883,2,0
+3603,,Irura - Kale Nagusia 6,43.16767531802775,-2.0676569066461603,2,0
+3605,,Irura - Laskibar Bailara,43.173686910630906,-2.0595191051477535,2,0
+3902,,"Asteasu - Kale Berria 14, Herrigunea",43.19360190094836,-2.0959505834401893,2,0
+2410,,"Zizurkil - Ernio Bidea 30, Beldarrain",43.192036808947044,-2.0615018494160036,2,0
+3600,,"Irura - Kale Nagusia 26, Etxezarreta",43.164619498559944,-2.069474794387498,2,0
+2303,,Villabona - Arroa Auzoa,43.18151212761661,-2.0540709894525646,2,0
+3602,,Irura - Ibaiondo Bailara,43.17570491731801,-2.057445721903503,2,0
+3901,,"Asteasu - Kale Berria 20, Herrigunea",43.193601706451524,-2.0959259717244625,2,0
+1736,,Tolosa - Rondilla Kalea 34,43.139312226107066,-2.073436936481452,2,0
+2000,,"Albiztur - Aizkorri Txiki Bailara 7 Parean, Santutxu",43.12180821353088,-2.1525969356051986,2,0
+2200,,"Bidania-goiatz - Bidania Gunea 43, Toki Alai",43.13732710346535,-2.160411950469992,2,0
+2201,,"Bidania-goiatz - Elbarren Bailara 26, Zelai",43.13355724235383,-2.15961515340187,2,0
+2202,,"Bidania-goiatz - Bidania Gunea 19, Plaza",43.14007913893945,-2.1599439136748564,2,0
+1735,,"Tolosa - Aldabatxiki Auzoa 3 Parean, Otzarain",43.1241026222013,-2.0924753472046267,2,0
+2006,,Albiztur - Urreta Bailara 12,43.1251142907393,-2.1205511622679984,2,0
+2008,,"Albiztur - Erdigunea 32 Parean, Ugarte",43.12900308950353,-2.128622002769544,2,0
+2010,,"Albiztur - Erdigunea, Udaletxea",43.129699498322296,-2.1373411957087427,2,0
+2011,,"Albiztur - Ergoena Bailara 3, Gaiztarro",43.12554625844416,-2.1394648945733246,2,0
+2203,,"Bidania-goiatz - Bidania Gunea 26, Plaza",43.140079680564746,-2.160017685644296,2,0
+2205,,"Bidania-goiatz - Elbarren Bailara 26 Parean, Zelai",43.133539234535355,-2.1596153999927648,2,0
+2001,,"Albiztur - Aizkorri Txiki Bailara 7, Santutxu",43.12174454888372,-2.1525117640938665,2,0
+2207,,"Bidania-goiatz - Goiatz Gunea 24, Herrigunea",43.142439499882734,-2.1674865706344497,2,0
+2002,,"Albiztur - Ergoena Bailara 3, Gaiztarro",43.12559981942211,-2.1394026754623745,2,0
+2003,,"Albiztur - Erdigunea, Eliza",43.129680656370134,-2.13723081024635,2,0
+2004,,"Albiztur - Erdigunea 45, Arkatzpe",43.129396637596734,-2.1318252586018933,2,0
+1734,,"Tolosa - Aldabatxiki Auzoa 3, Otzarain",43.12408441968117,-2.0924510296001726,2,0
+2007,,Albiztur - Urreta Bailara 12 Parean,43.12508718476625,-2.1205392570343062,2,0
+1801,,"Ibarra - San Blas Auzoa, Zubizarreta Aparkalekua",43.131756917741136,-2.068965018507327,2,0
+1802,,Ibarra - Apatta Belabieta Industrialdea,43.12294423367217,-2.0649190185621764,2,0
+1814,,Ibarra - Apattaerreka Industrialdea - Apatta Biribilgunea,43.12570766565545,-2.06259030400186,2,0
+1738,,"Tolosa - Geltoki Kalea 4, Renfeko Geltokia",43.13542178315296,-2.0789672278199105,2,0
+1816,,"Ibarra - Apattaerreka Industrialdea, Apatta Biribilgunea",43.125400936098146,-2.0625212262938635,2,0
+3601,,"Irura - Kale Nagusia 6 Parean, Udaletxea",43.16764870809251,-2.0677065196897315,2,0
+1725,,Tolosa - Larramendi Kalea11,43.14483454017482,-2.0715089071468387,2,0
+1726,,"Tolosa - Larramendi Kalea 1, Arramele",43.14178930064858,-2.071309056771817,2,0
+1728,,"Tolosa - Larramendi Kalea 8, Arramele",43.14195967194399,-2.071220399389883,2,0
+4400,,Larraul - Herrigunea,43.188013088724084,-2.1020630983633515,2,0
+2500,,Aduna - Uparan Industrigunea 1,43.19802998082944,-2.049027972684787,2,0
+2501,,"Aduna - Almankor Kalea 22, Herrigunea",43.204367541991374,-2.049901974861088,2,0

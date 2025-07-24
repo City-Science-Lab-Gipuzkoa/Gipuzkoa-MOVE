@@ -1,0 +1,10 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+11,18,U11,Beraun-Kaputxinoak,,3,,FFFFFF,8DC63F
+22,18,U22,Beraun-Kaputxinanoak-Lartzabal,,3,,FFFFFF,8DC63F
+33,18,U33,Gaztelutxo-Agustinak-Markola-Zamalbide,,3,,FFFFFF,8DC63F
+44,18,U44,Beraun-Txirrita Maleo-Masti Loidi,,3,,FFFFFF,8DC63F
+1,18,U1,Gauekoa-Nocturno,,3,,FFFFFF,8DC63F
+2,18,U2,Gauekoa-Nocturno,,3,,FFFFFF,8DC63F
+5,18,U5,Alaberga-Gerontologikoa-Masti Loidi,,3,,FFFFFF,8DC63F
+6,18,U6,Galtzaraborda-Beraun-Pontika,,3,,FFFFFF,8DC63F
+7,18,U7,Fanderia-Agustinak-Markoal-Zamalbide-Perurena,,3,,FFFFFF,8DC63F
