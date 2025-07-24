@@ -47,7 +47,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-
-WARNING! YOU SHOULD INSERT YOUR OWN APIKEY FROM OPENROUTER.AI IN CUSTOM_MAPA.PY
-
 Then open your browser and go to: http://127.0.0.1:8050/
+
+<span style="color:red"> WARNING! YOU SHOULD INSERT YOUR OWN APIKEY FROM OPENROUTER.AI IN CUSTOM_MAPA.PY </span>
