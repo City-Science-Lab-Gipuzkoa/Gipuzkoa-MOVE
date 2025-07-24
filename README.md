@@ -8,6 +8,7 @@ Developed using Python and Dash.
 
 ## Project Structure
 
+```
 aplicación/
 │
 ├── app.py ← Main entry point: home page + data catalogue module
@@ -23,7 +24,7 @@ aplicación/
 │   ├── aemet/ 
 │   ├── rsu/ 
 │   └── custom/ ← AI-powered custom map generator
-
+```
 ---
 
 ## Getting Started
