@@ -16,13 +16,13 @@ aplicación/
 ├── data/ ← Data files organized by source
 ├── modules/ ← Independent modules by data type (interactive map components except rsu and dgt3)
 │   ├── dgt/  
-│   ├── dgt3/ 
+│   ├── dgt3/ ← Module used to access data from DGT 3.0 Platform in Data Catalogue
 │   ├── udala/  
 │   ├── attg/
 │   ├── gasolineras/ 
 │   ├── estaciones/ 
 │   ├── aemet/ 
-│   ├── rsu/ 
+│   ├── rsu/ ← Module used to access data from RSU DB (CEIT owner) in Data Catalogue
 │   └── custom/ ← AI-powered custom map generator
 ```
 ---
