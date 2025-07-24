@@ -16,7 +16,7 @@ from email.message import EmailMessage
 # Configuración del cliente OpenAI (usando OpenRouter)
 # -------------------------------
 client = OpenAI(
-    api_key="", #INSERT OWN API KEY FROM OPENROUTER
+    api_key=os.getenv("OPENROUTER_API_KEY"), #INSERT OWN API KEY FROM OPENROUTER
     base_url="https://openrouter.ai/api/v1"
 )
 
