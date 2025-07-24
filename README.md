@@ -31,7 +31,7 @@ aplicación/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-user/mobility-data-platform.git
+git clone https://https://github.com/mzuazolaarr/dataspace
 cd mobility-data-platform/aplicación
 ```
 
