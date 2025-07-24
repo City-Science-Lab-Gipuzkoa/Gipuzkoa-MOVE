@@ -49,4 +49,4 @@ python app.py
 ```
 Then open your browser and go to: http://127.0.0.1:8050/
 
-<span style="color:red"> WARNING! YOU SHOULD INSERT YOUR OWN APIKEY FROM OPENROUTER.AI IN CUSTOM_MAPA.PY </span>
+❗ **WARNING:** You must insert your own API key from [OpenRouter.ai](https://openrouter.ai) in `custom_mapa.py`.
