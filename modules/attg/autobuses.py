@@ -4,7 +4,7 @@ import os
 import folium
 from branca.element import Figure
 
-BASE_PATH = os.path.join(os.path.dirname(__file__), "../../data/attg")
+BASE_PATH = "/home/cslgipuzkoa/virtual_machine_disk/dataspace-main/data/attg"
 carpetas = [d for d in os.listdir(BASE_PATH) if d.startswith("l_") or d == "dbus"]
 
 layout = html.Div(style={
