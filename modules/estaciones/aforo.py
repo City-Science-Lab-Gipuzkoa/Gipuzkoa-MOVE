@@ -121,7 +121,7 @@ def generar_mapa_html(semana_num):
 layout = html.Div([
     
     html.Div([
-            html.H1("Mapa de Parkings Públicos en Donostia", style={
+            html.H1("Mapa de Flujo de Vehiculos", style={
                 "textAlign": "center",
                 "color": "black",
                 "fontSize": "2rem",
