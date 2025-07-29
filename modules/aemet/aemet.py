@@ -8,7 +8,7 @@ import json
 import time
 from branca.element import Figure
 
-ruta_ubicacion = "/home/cslgipuzkoa/virtual_machine_disk/dataspace-main/data/aemet/ubicacion.txt"
+ruta_ubicacion = os.path.join(os.path.dirname(__file__), "../../data/aemet/ubicacion.txt")
 
 
 API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtenVhem9sYWFyckBhbHVtbmkudW5hdi5lcyIsImp0aSI6IjdjNzQwYWFiLTMzYjktNDlkMy1iYTZkLWIyYTJmMTBmZjkxYyIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNzQ4OTQ2NDE5LCJ1c2VySWQiOiI3Yzc0MGFhYi0zM2I5LTQ5ZDMtYmE2ZC1iMmEyZjEwZmY5MWMiLCJyb2xlIjoiIn0.KT5c-hwta3Y7yC1E-147KbS-uKywZGcyV-iN6zvRu2M"
