@@ -1,0 +1,201 @@
+fecha|periodo|origen|destino|distancia|actividad_origen|actividad_destino|estudio_origen_posible|estudio_destino_posible|residencia|renta|edad|sexo|viajes|viajes_km
+20250602|00|01001|01009_AM|2-10|casa|frecuente|no|no|01|>15|NA|NA|12.017|44.247
+20250602|00|01001|01009_AM|2-10|casa|no_frecuente|no|no|01|>15|NA|NA|9.508|39.757
+20250602|00|01001|01009_AM|2-10|frecuente|casa|no|no|01|>15|NA|NA|4.198|19.786
+20250602|00|01001|01009_AM|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|1.052|3.088
+20250602|00|01001|GAU Vitoria/Gasteiz|10-50|casa|frecuente|no|no|01|>15|NA|NA|10.563|133.162
+20250602|00|01001|GAU Vitoria/Gasteiz|10-50|casa|trabajo_estudio|no|no|01|>15|NA|NA|4.894|72.603
+20250602|00|01001|GAU Vitoria/Gasteiz|10-50|frecuente|casa|no|no|01|>15|0-25|mujer|3.281|39.859
+20250602|00|01001|GAU Vitoria/Gasteiz|10-50|frecuente|casa|no|no|01|>15|25-45|hombre|2.962|35.896
+20250602|00|01001|GAU Vitoria/Gasteiz|10-50|frecuente|casa|no|no|01|>15|25-45|mujer|3.146|42.330
+20250602|00|01001|GAU Vitoria/Gasteiz|10-50|no_frecuente|casa|no|no|01|>15|25-45|hombre|2.978|38.725
+20250602|00|01001|GAU Vitoria/Gasteiz|2-10|frecuente|trabajo_estudio|no|no|01|>15|NA|NA|2.026|17.258
+20250602|00|01001|GAU Vitoria/Gasteiz|2-10|no_frecuente|casa|no|no|01|>15|NA|NA|1.000|6.929
+20250602|00|01002|01002|0.5-2|casa|frecuente|no|no|01|>15|NA|NA|15.765|14.574
+20250602|00|01002|01002|0.5-2|casa|no_frecuente|no|no|01|>15|NA|NA|9.051|10.187
+20250602|00|01002|01002|0.5-2|frecuente|casa|no|no|01|>15|NA|NA|15.532|19.775
+20250602|00|01002|01002|0.5-2|frecuente|frecuente|no|no|48|>15|NA|NA|1.597|2.463
+20250602|00|01002|01002|0.5-2|frecuente|no_frecuente|no|no|48|>15|45-65|mujer|3.388|5.993
+20250602|00|01002|01002|0.5-2|no_frecuente|casa|no|no|01|>15|NA|NA|7.131|5.830
+20250602|00|01002|01002|0.5-2|no_frecuente|no_frecuente|no|no|01|>15|NA|NA|2.658|4.296
+20250602|00|01002|01002|10-50|casa|frecuente|no|no|01|>15|NA|NA|2.658|31.328
+20250602|00|01002|01002|2-10|casa|frecuente|no|no|01|>15|NA|NA|16.463|60.244
+20250602|00|01002|01002|2-10|casa|no_frecuente|no|no|01|>15|45-65|NA|3.367|20.300
+20250602|00|01002|01002|2-10|casa|trabajo_estudio|no|no|01|>15|NA|NA|2.658|15.375
+20250602|00|01002|01002|2-10|frecuente|casa|no|no|01|>15|NA|NA|19.210|75.325
+20250602|00|01002|01002|2-10|frecuente|no_frecuente|no|no|48|>15|25-45|hombre|2.223|15.752
+20250602|00|01002|01002|2-10|frecuente|no_frecuente|no|no|48|>15|NA|NA|1.383|6.600
+20250602|00|01002|01002|2-10|no_frecuente|no_frecuente|no|no|01|>15|NA|NA|1.757|14.164
+20250602|00|01002|01002|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|16.103|62.485
+20250602|00|01002|01010|0.5-2|casa|no_frecuente|no|no|01|>15|NA|NA|2.527|4.998
+20250602|00|01002|01010|0.5-2|frecuente|casa|no|no|01|>15|NA|NA|1.826|3.463
+20250602|00|01002|01010|0.5-2|no_frecuente|casa|no|no|01|>15|NA|NA|1.667|2.750
+20250602|00|01002|01010|2-10|casa|trabajo_estudio|no|no|01|>15|NA|NA|6.034|26.590
+20250602|00|01002|01010|2-10|frecuente|casa|no|no|01|>15|NA|NA|6.107|42.609
+20250602|00|01002|01010|2-10|no_frecuente|casa|no|no|01|>15|NA|NA|5.362|32.738
+20250602|00|01002|01010|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|8.538|45.615
+20250602|00|01002|01010|2-10|trabajo_estudio|frecuente|no|no|01|>15|NA|NA|2.460|12.280
+20250602|00|01002|01036|2-10|casa|frecuente|no|no|01|>15|NA|NA|2.638|13.951
+20250602|00|01002|01054_AM|10-50|casa|frecuente|no|no|01|>15|NA|NA|2.527|31.958
+20250602|00|01002|01054_AM|10-50|frecuente|casa|no|no|01|>15|NA|NA|3.800|42.616
+20250602|00|01002|01054_AM|2-10|casa|frecuente|no|no|01|>15|NA|NA|2.638|26.115
+20250602|00|01002|01054_AM|2-10|frecuente|no_frecuente|no|no|01|>15|NA|NA|3.129|24.360
+20250602|00|01002|01054_AM|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|2.460|19.274
+20250602|00|01002|48003|10-50|frecuente|casa|no|no|48|>15|65-100|NA|3.159|110.794
+20250602|00|01002|GAU Vitoria/Gasteiz|10-50|casa|no_frecuente|no|no|01|>15|NA|NA|3.386|81.356
+20250602|00|01004_AM|01010|2-10|frecuente|casa|no|no|01|>15|NA|NA|2.820|19.858
+20250602|00|01004_AM|09410|2-10|frecuente|casa|no|no|09|10-15|NA|NA|1.491|5.736
+20250602|00|01004_AM|GAU Bilbao|10-50|no_frecuente|no_frecuente|no|no|48|10-15|65-100|hombre|1.204|27.523
+20250602|00|01004_AM|GAU Bilbao|10-50|no_frecuente|no_frecuente|no|no|48|10-15|65-100|mujer|2.138|45.770
+20250602|00|01009_AM|01001|2-10|frecuente|casa|no|no|01|>15|NA|NA|15.249|51.750
+20250602|00|01009_AM|01001|2-10|no_frecuente|casa|no|no|01|>15|NA|NA|2.385|5.438
+20250602|00|01009_AM|01009_AM|0.5-2|casa|frecuente|no|no|01|>15|NA|NA|1.052|1.822
+20250602|00|01009_AM|01009_AM|10-50|frecuente|casa|no|no|01|>15|NA|NA|2.000|22.517
+20250602|00|01009_AM|01009_AM|10-50|trabajo_estudio|casa|no|no|01|>15|NA|NA|4.665|48.673
+20250602|00|01009_AM|01009_AM|2-10|casa|frecuente|no|no|01|>15|NA|NA|14.443|85.341
+20250602|00|01009_AM|01009_AM|2-10|casa|trabajo_estudio|no|no|01|>15|NA|NA|1.309|9.733
+20250602|00|01009_AM|01009_AM|2-10|frecuente|casa|no|no|01|>15|NA|NA|17.509|113.848
+20250602|00|01009_AM|01009_AM|2-10|frecuente|frecuente|no|no|01|>15|0-25|hombre|3.466|19.323
+20250602|00|01009_AM|01009_AM|2-10|frecuente|frecuente|no|no|01|>15|25-45|hombre|2.966|18.143
+20250602|00|01009_AM|01009_AM|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|3.342|25.965
+20250602|00|01009_AM|01017_AM|10-50|frecuente|casa|no|no|01|10-15|NA|NA|2.143|24.116
+20250602|00|01009_AM|01017_AM|10-50|frecuente|casa|no|no|01|>15|NA|NA|1.697|19.945
+20250602|00|01009_AM|01017_AM|2-10|casa|frecuente|no|no|01|>15|NA|NA|1.309|12.291
+20250602|00|01009_AM|01017_AM|2-10|frecuente|casa|no|no|01|>15|NA|NA|1.453|13.883
+20250602|00|01009_AM|01051|10-50|casa|frecuente|no|no|01|>15|NA|NA|2.912|29.980
+20250602|00|01009_AM|01051|10-50|frecuente|frecuente|no|no|20|>15|NA|NA|2.529|37.214
+20250602|00|01009_AM|01051|2-10|casa|frecuente|no|no|01|>15|NA|NA|3.991|21.421
+20250602|00|01009_AM|01051|2-10|casa|trabajo_estudio|no|no|01|>15|NA|NA|1.000|5.378
+20250602|00|01009_AM|01051|2-10|frecuente|casa|no|no|01|10-15|NA|NA|23.168|136.609
+20250602|00|01009_AM|01051|2-10|trabajo_estudio|casa|no|no|01|10-15|0-25|hombre|12.324|85.420
+20250602|00|01009_AM|01058_AM|2-10|frecuente|casa|no|no|01|>15|NA|NA|2.016|15.524
+20250602|00|01009_AM|01058_AM|2-10|frecuente|frecuente|no|no|01|>15|65-100|hombre|2.308|17.112
+20250602|00|01009_AM|01058_AM|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|2.911|18.010
+20250602|00|01009_AM|01063_AM|10-50|no_frecuente|frecuente|no|no|01|>15|25-45|mujer|3.146|58.203
+20250602|00|01009_AM|20074|10-50|no_frecuente|casa|no|no|20|>15|NA|NA|2.589|60.969
+20250602|00|01009_AM|31010_AM|10-50|frecuente|casa|no|no|31|>15|NA|NA|2.455|32.292
+20250602|00|01009_AM|31010_AM|10-50|no_frecuente|casa|no|no|31|>15|NA|NA|3.342|87.470
+20250602|00|01009_AM|31010_AM|10-50|no_frecuente|no_frecuente|no|no|09|>15|NA|NA|1.000|11.696
+20250602|00|01009_AM|FRI15|>50|no_frecuente|no_frecuente|no|no|13|10-15|NA|NA|1.000|67.909
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|0.5-2|casa|frecuente|no|no|01|>15|NA|NA|1.407|1.573
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|10-50|casa|frecuente|no|no|01|>15|NA|NA|5.945|81.369
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|10-50|casa|no_frecuente|no|no|01|>15|NA|NA|1.056|18.283
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|10-50|frecuente|casa|no|no|01|>15|25-45|mujer|2.319|57.652
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|10-50|frecuente|casa|no|no|01|>15|45-65|hombre|5.494|85.729
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|10-50|frecuente|casa|no|no|01|>15|NA|NA|1.000|14.779
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|10-50|frecuente|frecuente|no|no|01|>15|0-25|mujer|4.021|43.248
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|10-50|frecuente|frecuente|no|no|01|>15|25-45|NA|2.290|66.739
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|10-50|frecuente|frecuente|no|no|01|>15|NA|NA|2.355|26.321
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|10-50|no_frecuente|casa|no|no|01|>15|45-65|mujer|3.032|53.112
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|2-10|casa|frecuente|no|no|01|>15|NA|NA|8.966|65.134
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|2-10|casa|no_frecuente|no|no|01|>15|NA|NA|1.924|17.105
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|2-10|frecuente|casa|no|no|01|>15|25-45|mujer|2.993|29.302
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|2-10|frecuente|casa|no|no|01|>15|NA|NA|2.536|22.412
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|1.000|5.488
+20250602|00|01009_AM|GAU Vitoria/Gasteiz|2-10|trabajo_estudio|no_frecuente|no|no|01|>15|NA|NA|4.894|30.654
+20250602|00|01010|01002|0.5-2|frecuente|casa|no|no|01|>15|45-65|NA|3.755|5.371
+20250602|00|01010|01002|10-50|casa|frecuente|no|no|01|>15|NA|NA|1.462|14.660
+20250602|00|01010|01002|10-50|frecuente|casa|no|no|01|>15|NA|NA|3.386|37.558
+20250602|00|01010|01002|10-50|trabajo_estudio|casa|no|no|01|>15|NA|NA|2.638|38.195
+20250602|00|01010|01002|2-10|casa|frecuente|no|no|01|>15|NA|NA|4.350|19.240
+20250602|00|01010|01002|2-10|casa|no_frecuente|no|no|01|>15|NA|NA|4.689|25.686
+20250602|00|01010|01002|2-10|frecuente|casa|no|no|01|>15|45-65|NA|3.755|20.319
+20250602|00|01010|01002|2-10|frecuente|no_frecuente|no|no|01|>15|25-45|NA|2.290|15.647
+20250602|00|01010|01002|2-10|no_frecuente|casa|no|no|01|>15|45-65|NA|3.755|18.008
+20250602|00|01010|01004_AM|10-50|casa|frecuente|no|no|01|>15|NA|NA|1.462|14.827
+20250602|00|01010|01004_AM|2-10|frecuente|frecuente|no|no|03|10-15|45-65|NA|2.783|10.259
+20250602|00|01010|01004_AM|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|3.758|11.919
+20250602|00|01010|01010|0.5-2|casa|frecuente|no|no|01|>15|NA|NA|2.910|3.312
+20250602|00|01010|01010|2-10|casa|trabajo_estudio|no|no|01|>15|NA|NA|1.826|7.654
+20250602|00|01010|01010|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|1.757|11.497
+20250602|00|01010|01054_AM|10-50|casa|no_frecuente|no|no|01|>15|NA|NA|5.459|70.282
+20250602|00|01010|48074|2-10|casa|frecuente|no|no|01|>15|NA|NA|1.284|12.205
+20250602|00|01017_AM|01009_AM|10-50|casa|no_frecuente|no|no|01|>15|NA|NA|1.697|17.255
+20250602|00|01017_AM|01009_AM|10-50|trabajo_estudio|casa|no|no|01|>15|NA|NA|1.808|23.406
+20250602|00|01017_AM|01017_AM|0.5-2|frecuente|casa|no|no|01|10-15|NA|NA|4.222|6.201
+20250602|00|01017_AM|01017_AM|10-50|frecuente|casa|no|no|01|>15|NA|NA|7.571|77.057
+20250602|00|01017_AM|01017_AM|2-10|casa|no_frecuente|no|no|01|>15|NA|NA|1.453|10.635
+20250602|00|01017_AM|01017_AM|2-10|frecuente|casa|no|no|01|10-15|NA|NA|4.986|26.144
+20250602|00|01017_AM|01017_AM|2-10|frecuente|casa|no|no|01|>15|NA|NA|7.243|60.442
+20250602|00|01017_AM|01017_AM|2-10|frecuente|frecuente|no|no|01|>15|45-65|hombre|2.850|18.095
+20250602|00|01017_AM|01017_AM|2-10|frecuente|no_frecuente|no|no|01|>15|0-25|mujer|4.021|19.821
+20250602|00|01017_AM|01017_AM|2-10|no_frecuente|no_frecuente|no|no|01|>15|65-100|hombre|2.870|26.490
+20250602|00|01017_AM|01017_AM|2-10|no_frecuente|no_frecuente|no|no|48|>15|65-100|mujer|3.104|16.325
+20250602|00|01017_AM|01017_AM|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|3.500|18.801
+20250602|00|01017_AM|01028_AM|2-10|casa|no_frecuente|no|no|01|10-15|NA|NA|8.788|73.410
+20250602|00|01017_AM|01047_AM|10-50|casa|no_frecuente|no|no|01|>15|NA|NA|2.289|100.068
+20250602|00|01017_AM|09109_AM|10-50|frecuente|casa|no|no|09|10-15|NA|NA|2.234|42.783
+20250602|00|01017_AM|09109_AM|10-50|frecuente|no_frecuente|no|no|01|>15|45-65|mujer|2.888|34.067
+20250602|00|01017_AM|26005|10-50|no_frecuente|no_frecuente|no|no|23|10-15|NA|NA|2.660|61.932
+20250602|00|01017_AM|31029_AM|10-50|frecuente|casa|no|no|31|>15|NA|NA|2.353|29.652
+20250602|00|01017_AM|31041_AM|10-50|no_frecuente|casa|no|no|31|>15|NA|NA|1.000|19.471
+20250602|00|01017_AM|31097|10-50|no_frecuente|casa|no|no|31|>15|45-65|NA|2.730|113.434
+20250602|00|01017_AM|GAU Logroño|10-50|casa|frecuente|no|no|01|10-15|NA|NA|4.565|53.688
+20250602|00|01017_AM|GAU Logroño|10-50|no_frecuente|frecuente|no|no|26|10-15|25-45|NA|4.036|142.167
+20250602|00|01017_AM|GAU Logroño|2-10|no_frecuente|no_frecuente|no|no|08|>15|65-100|hombre|2.873|27.865
+20250602|00|01017_AM|GAU Vitoria/Gasteiz|10-50|no_frecuente|trabajo_estudio|no|no|01|>15|0-25|hombre|3.466|57.236
+20250602|00|01028_AM|01017_AM|2-10|casa|frecuente|no|no|01|10-15|NA|NA|8.522|48.106
+20250602|00|01028_AM|01017_AM|2-10|casa|no_frecuente|no|no|01|<10|NA|NA|2.875|27.261
+20250602|00|01028_AM|01017_AM|2-10|frecuente|casa|no|no|01|10-15|NA|NA|11.645|51.803
+20250602|00|01028_AM|01017_AM|2-10|no_frecuente|casa|no|no|01|10-15|NA|NA|2.286|17.127
+20250602|00|01028_AM|01017_AM|2-10|no_frecuente|no_frecuente|no|no|09|>15|45-65|hombre|2.137|20.454
+20250602|00|01028_AM|01017_AM|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|2.654|18.459
+20250602|00|01028_AM|01028_AM|0.5-2|casa|frecuente|no|no|01|10-15|NA|NA|4.595|7.928
+20250602|00|01028_AM|01028_AM|0.5-2|frecuente|casa|no|no|01|10-15|NA|NA|10.963|9.603
+20250602|00|01028_AM|01028_AM|0.5-2|frecuente|frecuente|no|no|31|10-15|NA|NA|3.229|3.989
+20250602|00|01028_AM|01028_AM|0.5-2|frecuente|frecuente|no|no|50|10-15|0-25|NA|2.440|3.677
+20250602|00|01028_AM|01028_AM|0.5-2|no_frecuente|casa|no|no|01|10-15|NA|NA|4.595|5.188
+20250602|00|01028_AM|01028_AM|0.5-2|no_frecuente|no_frecuente|no|no|03|10-15|25-45|hombre|3.024|3.402
+20250602|00|01028_AM|01028_AM|0.5-2|no_frecuente|no_frecuente|no|no|03|10-15|65-100|hombre|1.542|0.915
+20250602|00|01028_AM|01028_AM|0.5-2|no_frecuente|no_frecuente|no|no|08|10-15|NA|NA|3.727|3.234
+20250602|00|01028_AM|01028_AM|0.5-2|trabajo_estudio|casa|no|no|01|10-15|NA|NA|5.545|6.034
+20250602|00|01028_AM|01028_AM|2-10|casa|frecuente|no|no|01|10-15|NA|NA|10.958|66.464
+20250602|00|01028_AM|01028_AM|2-10|casa|trabajo_estudio|no|no|01|>15|NA|NA|4.853|25.457
+20250602|00|01028_AM|01028_AM|2-10|frecuente|casa|no|no|01|10-15|NA|NA|19.053|129.381
+20250602|00|01028_AM|01028_AM|2-10|frecuente|casa|no|no|01|>15|NA|NA|6.962|27.669
+20250602|00|01028_AM|01028_AM|2-10|frecuente|frecuente|no|no|01|>15|45-65|hombre|2.644|14.228
+20250602|00|01028_AM|01028_AM|2-10|frecuente|frecuente|no|no|01|>15|65-100|mujer|2.405|11.525
+20250602|00|01028_AM|01028_AM|2-10|no_frecuente|casa|no|no|01|<10|NA|NA|1.706|4.699
+20250602|00|01028_AM|01028_AM|2-10|trabajo_estudio|casa|no|no|01|10-15|NA|NA|4.525|16.795
+20250602|00|01028_AM|01028_AM|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|6.738|27.918
+20250602|00|01028_AM|01047_AM|10-50|casa|frecuente|no|no|01|>15|NA|NA|4.364|49.907
+20250602|00|01028_AM|01047_AM|2-10|frecuente|frecuente|no|no|01|>15|45-65|hombre|2.873|13.610
+20250602|00|01028_AM|01047_AM|2-10|no_frecuente|frecuente|no|no|09|10-15|25-45|hombre|2.364|13.340
+20250602|00|01028_AM|01054_AM|10-50|casa|frecuente|no|no|01|>15|NA|NA|3.882|39.407
+20250602|00|01028_AM|09219|10-50|no_frecuente|trabajo_estudio|no|no|09|10-15|25-45|hombre|2.364|25.006
+20250602|00|01028_AM|09219|2-10|casa|frecuente|no|no|01|>15|NA|NA|4.100|22.300
+20250602|00|01028_AM|09219|2-10|no_frecuente|casa|no|no|09|10-15|45-65|hombre|3.236|13.114
+20250602|00|01028_AM|26042_AM|10-50|casa|no_frecuente|no|no|01|10-15|NA|NA|2.688|39.728
+20250602|00|01028_AM|26042_AM|10-50|frecuente|frecuente|no|no|03|<10|45-65|hombre|2.747|41.767
+20250602|00|01028_AM|26059_AM|10-50|casa|no_frecuente|no|no|01|10-15|NA|NA|4.250|82.038
+20250602|00|01028_AM|26071_AM|2-10|casa|frecuente|no|no|01|10-15|NA|NA|3.643|16.364
+20250602|00|01028_AM|26071_AM|2-10|no_frecuente|no_frecuente|no|no|08|>15|25-45|hombre|2.589|8.156
+20250602|00|01028_AM|26105_AM|10-50|casa|frecuente|no|no|01|>15|NA|NA|4.714|48.572
+20250602|00|01028_AM|26129_AM|10-50|no_frecuente|no_frecuente|no|no|20|>15|25-45|NA|2.808|32.787
+20250602|00|01028_AM|26129_AM|2-10|casa|frecuente|no|no|01|10-15|NA|NA|12.542|67.722
+20250602|00|01028_AM|26129_AM|2-10|casa|trabajo_estudio|no|no|01|10-15|NA|NA|2.500|15.182
+20250602|00|01028_AM|26129_AM|2-10|frecuente|casa|no|no|26|10-15|NA|NA|3.300|30.738
+20250602|00|01028_AM|26129_AM|2-10|frecuente|frecuente|no|no|01|10-15|NA|NA|2.250|11.563
+20250602|00|01028_AM|26129_AM|2-10|no_frecuente|no_frecuente|no|no|04|10-15|25-45|mujer|4.687|28.629
+20250602|00|01028_AM|26129_AM|2-10|no_frecuente|no_frecuente|no|no|48|>15|0-25|mujer|3.280|15.995
+20250602|00|01028_AM|GAU Logroño|10-50|frecuente|casa|no|no|26|10-15|NA|NA|2.662|27.041
+20250602|00|01028_AM|GAU Logroño|10-50|no_frecuente|casa|no|no|26|10-15|25-45|mujer|5.348|112.295
+20250602|00|01028_AM|GAU Logroño|10-50|trabajo_estudio|frecuente|no|no|01|>15|NA|NA|2.000|25.419
+20250602|00|01028_AM|GAU Logroño|2-10|casa|frecuente|no|no|01|10-15|NA|NA|18.106|165.166
+20250602|00|01028_AM|GAU Logroño|2-10|casa|no_frecuente|no|no|01|10-15|NA|NA|4.603|41.807
+20250602|00|01028_AM|GAU Logroño|2-10|casa|trabajo_estudio|no|no|01|10-15|NA|NA|5.903|52.846
+20250602|00|01028_AM|GAU Logroño|2-10|frecuente|casa|no|no|26|10-15|NA|NA|5.824|19.398
+20250602|00|01028_AM|GAU Logroño|2-10|no_frecuente|no_frecuente|no|no|01|>15|45-65|hombre|3.160|30.747
+20250602|00|01028_AM|GAU Vitoria/Gasteiz|10-50|casa|frecuente|no|no|01|>15|NA|NA|3.353|43.401
+20250602|00|01028_AM|GAU Vitoria/Gasteiz|10-50|trabajo_estudio|casa|no|no|01|>15|NA|NA|1.000|17.837
+20250602|00|01036|01002|2-10|frecuente|casa|no|no|01|>15|NA|NA|2.638|17.331
+20250602|00|01036|01002|2-10|trabajo_estudio|casa|no|no|01|>15|NA|NA|2.658|13.716
+20250602|00|01036|01010|2-10|frecuente|casa|no|no|01|>15|NA|NA|1.153|8.553
+20250602|00|01036|01036|0.5-2|casa|frecuente|no|no|01|>15|0-25|NA|15.190|15.431
+20250602|00|01036|01036|0.5-2|casa|frecuente|no|no|01|>15|25-45|NA|19.139|28.809
+20250602|00|01036|01036|0.5-2|casa|frecuente|no|no|01|>15|45-65|hombre|6.316|6.292
+20250602|00|01036|01036|0.5-2|casa|frecuente|no|no|01|>15|45-65|mujer|6.856|10.753
+20250602|00|01036|01036|0.5-2|casa|frecuente|no|no|01|>15|65-100|hombre|10.504|8.675
+20250602|00|01036|01036|0.5-2|casa|frecuente|no|no|01|>15|65-100|mujer|15.688|23.544
+20250602|00|01036|01036|0.5-2|casa|trabajo_estudio|no|no|01|>15|0-25|NA|3.021|2.793
+20250602|00|01036|01036|0.5-2|casa|trabajo_estudio|no|no|01|>15|25-45|NA|7.279|9.703
