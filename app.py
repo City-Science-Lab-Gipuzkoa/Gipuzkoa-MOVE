@@ -38,8 +38,8 @@ def crear_tarjeta(titulo, descripcion, enlace, download_id, boton_id):
 # ========================
 home_principal_layout = html.Div([
     html.Div([
-        html.H1("Fuentes de Datos de Movilidad en Gipuzkoa", className="titulo-principal"),
-        html.P("Bienvenido a la Fuente de Datos de Movilidad en Gipuzkoa, una plataforma integral para explorar, analizar y visualizar diversos conjuntos de datos de movilidad en Gipuzkoa."), 
+        html.H1("Gipuzkoa MOVE", className="titulo-principal"),
+        html.P("Bienvenido a Gipuzkoa MOVE (Mobility Open Visual Explorer), una plataforma integral para explorar, analizar y visualizar diversos conjuntos de datos de movilidad en Gipuzkoa."), 
         html.P("¡Explore y descubra los datos disponibles!"),
         html.Hr()
     ], className="cabecera"),
