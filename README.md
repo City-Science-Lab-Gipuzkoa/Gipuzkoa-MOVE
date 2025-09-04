@@ -1,4 +1,4 @@
-# Gipuzkoa Mobility Data Platform
+# Gipuzkoa Mobility Open Visualizer
 
 This application provides a web-based interface for exploring and cataloguing mobility-related datasets in Gipuzkoa. It includes interactive maps, dataset visualizations, and a custom AI-powered map generation tool to support the development of a mobility data space in the region.
 
